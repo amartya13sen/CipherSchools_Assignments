@@ -1,3 +1,6 @@
+import java.util.*;
+import java.lang.*;
+
 class Problem10
 {
     public static int maxWater(int[] arr, int n) 
